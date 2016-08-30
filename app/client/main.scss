@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+
+@import '../node_modules/foundation-sites/scss/foundation.scss';
+// include all
+@include foundation-everything;
+
+
+body {
+  // background-color: #f00;
+}
